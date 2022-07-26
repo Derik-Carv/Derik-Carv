@@ -22,6 +22,6 @@
  <a href="https://discord.gg/m7NzkFEaQQ" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto:derikcarv.dc@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
  
- ![Snake animation](https://github.com/devemdobro/devemdobro/blob/output/github-contribution-grid-snake.svg)
+ ![Snake animation](https://github.com/derik-carv/derik-carv/blob/output/github-contribution-grid-snake.svg)
   
 </div>
