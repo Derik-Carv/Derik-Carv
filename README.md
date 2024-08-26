@@ -19,8 +19,6 @@
 
 ## Olá, meu nome é Derik Carvalho, desenvolvo alguns projetos pessoais, estou me formando em Análise e Desenvolviemnto de SIstemas e sou estudante de programação.
 
-  ##
-
 <div style="display: inline_block"><br>
   <img align="center" alt="Carv-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Carv-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
