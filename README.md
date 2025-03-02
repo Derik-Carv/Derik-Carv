@@ -9,6 +9,9 @@
   <img src="https://github-profile-trophy.vercel.app/?username=Derik-Carv&theme=moltak&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
 </p>
 
+<p align="center">
+  SEJA BEM VINDO, ME CHAMO DERIK CARVALHO!
+</p>
 
 
 <div align="center">  
