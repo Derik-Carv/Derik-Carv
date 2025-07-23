@@ -1,11 +1,4 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=ff0000&height=120&section=header"/>
-
-<div align="center">
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffffff&size=35&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+Derik+Carvalho;Tenho+26+anos+e+sou+de+Castanhal,+Pará,+Brasil.;Sou+formado+em+Análise+e+Desenvolvimento+de+Sistemas.;Atualmente+no+último+semestre+do+curso.;Seja+bem-vindo+ao+meu+perfil+!)](https://git.io/typing-svg)
-
-</div>
-
 ---
 
 ## 👨‍💻 Sobre mim
@@ -63,9 +56,9 @@ Atualmente estou:
 ---
 
 <div align="center">
+  <br><p align="centre"><b>Visitors Count</b></p>  
+    <p align="center"><img align="center" src="https://profile-counter.glitch.me/{Derik-Carv}/count.svg" /></p> 
   <br>
-  <p><strong>Visitantes do perfil:</strong></p>  
-  <img src="https://profile-counter.glitch.me/{Derik-Carv}/count.svg" />
 </div>
 
 <br>
