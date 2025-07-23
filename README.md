@@ -54,12 +54,4 @@ Atualmente estou:
 
 ---
 
-<div align="center">
-  <br><p align="centre"><b>Visitors Count</b></p>  
-    <p align="center"><img align="center" src="https://profile-counter.glitch.me/{Derik-Carv}/count.svg" /></p> 
-  <br>
-</div>
-
-<br>
-
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=ff0000&height=120&section=footer"/>
