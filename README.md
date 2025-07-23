@@ -1,6 +1,4 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=ff0000&height=120&section=header"/>
----
-
 ## 👨‍💻 Sobre mim
 
 Olá! Meu nome é **Derik Carvalho**, tenho 27 anos, e sou natural de Castanhal-PA. Desenvolvo projetos pessoais, sistemas web e automações, sempre buscando evoluir tecnicamente e aprender novas ferramentas.
