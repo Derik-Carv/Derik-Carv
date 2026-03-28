@@ -25,23 +25,6 @@ Atualmente estou:
 
 ---
 
-## 📈 Estatísticas do GitHub
-
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Derik-Carv&show_icons=true&count_private=true&hide_border=true&title_color=ff0000&icon_color=E5E200&text_color=ffffff&bg_color=0d1117" alt="Derik Carvalho GitHub Stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Derik-Carv&layout=compact&hide_border=true&title_color=ffffff&text_color=ff91a4&bg_color=ff000010" />
-</div>
-
----
-
-## 🏆 Conquistas e Atividades
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Derik-Carv&theme=moltak&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
-</p>
-
----
-
 ## 📬 Contato
 
 <div>
