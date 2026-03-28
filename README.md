@@ -28,7 +28,7 @@ Atualmente estou:
 ## 📬 Contato
 
 <div>
-  <a href="mailto:derikcarv.dc@gmail.com" target="_blank">
+  <a href="mailto:derikdevsoftware@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
   <a href="https://br.linkedin.com/in/derikcarv" target="_blank">
